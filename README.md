@@ -1,2 +1,7 @@
-# Caesar-and-Vigen-re-cipher
+# Caesar-and-Vigenere-cipher
 Алгоритм шифрования/дешифрования текста методами Виженера и Цезаря
+
+Для запуска выполните команду:
+```shell
+python run.py 
+```
